@@ -3,6 +3,28 @@
 ![image](https://github.com/Sarthaksaraf96/Analysing-Global-Terrorism-Dataset/assets/132260196/31affaf0-5878-442e-a713-be8dbad9c487)
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Trend Of Number of attacks by Year:
 
 ![image](https://github.com/Sarthaksaraf96/Analysing-Global-Terrorism-Dataset/assets/132260196/e29df213-351f-4f04-9d46-863cc936d856)
