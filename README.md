@@ -3,6 +3,11 @@
 ![image](https://github.com/Sarthaksaraf96/Analysing-Global-Terrorism-Dataset/assets/132260196/31affaf0-5878-442e-a713-be8dbad9c487)
 
 
+## Trend Of Number of attacks by Year:
+
+![image](https://github.com/Sarthaksaraf96/Analysing-Global-Terrorism-Dataset/assets/132260196/e29df213-351f-4f04-9d46-863cc936d856)
+
+
 * **Project Summary: Analyzing Global Terrorism Incidents**
   - The project embarked on a comprehensive analysis of global terrorism incidents sourced from a robust dataset encompassing various dimensions of terrorist activities worldwide. This exploration aimed to uncover underlying patterns, trends, and crucial indicators that shed light on the nature and impact of terrorism across different regions and timeframes.
 
