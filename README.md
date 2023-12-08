@@ -1,9 +1,8 @@
-* Analysing Global Terrorism Dataset
+# Capstone Project: EDA of Global Terrorism
 
 ![image](https://github.com/Sarthaksaraf96/Analysing-Global-Terrorism-Dataset/assets/132260196/31affaf0-5878-442e-a713-be8dbad9c487)
 
 
-# Capstone-Project-EDA-of-Global-Terrorism
 * **Project Summary: Analyzing Global Terrorism Incidents**
   - The project embarked on a comprehensive analysis of global terrorism incidents sourced from a robust dataset encompassing various dimensions of terrorist activities worldwide. This exploration aimed to uncover underlying patterns, trends, and crucial indicators that shed light on the nature and impact of terrorism across different regions and timeframes.
 
