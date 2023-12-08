@@ -27,7 +27,7 @@
 
 ## Trend Of Terrorism attacks:
 
-<img src="https://github.com/Sarthaksaraf96/Analysing-Global-Terrorism-Dataset/assets/132260196/e29df213-351f-4f04-9d46-863cc936d856" width="200" />
+<img src="https://github.com/Sarthaksaraf96/Analysing-Global-Terrorism-Dataset/assets/132260196/e29df213-351f-4f04-9d46-863cc936d856" width="500" />
 
 
 * **Project Summary: Analyzing Global Terrorism Incidents**
